@@ -1,3 +1,7 @@
+(this is from a lightning talk given at the
+[AngularJS Mountain View meetup](http://www.meetup.com/AngularJS-MTV/events/218598545/)
+on Nov 18, 2014)
+
 # Benchpress Preview
 
 ## Jeff Cross
